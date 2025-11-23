@@ -108,7 +108,9 @@ footer {
     padding: 20px;
     margin-bottom: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: justify;
 }
+
 .news-item h2 {
     color: #0e4451;
     font-size: 1em;
@@ -122,5 +124,6 @@ footer {
 .news-item p {
     line-height: 1.6;
 }
+
 
 
